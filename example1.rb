@@ -3,4 +3,4 @@ print 'Enter your name: '
 name = gets.chomp
 print 'Enter your age: '
 age = gets.chomp.to_i
-puts "Seu nome é #{name} e tem #{age} anos."
+puts "Your name's #{name} and you're #{age}."
